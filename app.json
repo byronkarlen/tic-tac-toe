@@ -34,9 +34,8 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "resizeMode": "cover",
+          "backgroundColor": "#1a1a2e"
         }
       ]
     ],
@@ -49,6 +48,12 @@
         "projectId": "246190a8-9385-481c-85fd-ab5873f7cf62"
       }
     },
-    "owner": "wbkarlen"
+    "owner": "wbkarlen",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/246190a8-9385-481c-85fd-ab5873f7cf62"
+    }
   }
 }
