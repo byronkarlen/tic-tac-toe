@@ -21,12 +21,10 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 42,
     fontWeight: '800',
+    fontFamily: 'SpaceMono',
     textAlign: 'center',
     marginBottom: 40,
     color: '#ffffff',
-    textShadowColor: 'rgba(0, 0, 0, 0.5)',
-    textShadowOffset: { width: 2, height: 2 },
-    textShadowRadius: 4,
     letterSpacing: 3,
   },
 });

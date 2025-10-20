@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 36,
     fontWeight: 'bold',
+    fontFamily: 'SpaceMono',
     color: '#ffffff',
   },
   xText: {

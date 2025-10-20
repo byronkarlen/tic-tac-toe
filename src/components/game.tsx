@@ -133,6 +133,7 @@ const styles = StyleSheet.create({
     statusText: {
         fontSize: 20,
         fontWeight: '600',
+        fontFamily: 'SpaceMono',
         color: '#ffffff',
         textAlign: 'center',
     },
@@ -180,6 +181,7 @@ const styles = StyleSheet.create({
         color: 'white',
         fontSize: 16,
         fontWeight: '600',
+        fontFamily: 'SpaceMono',
     },
     buttonTextDisabled: {
         color: '#d1d5db',
